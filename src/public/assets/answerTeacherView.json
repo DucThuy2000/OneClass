@@ -1,0 +1,1457 @@
+[
+  {
+    "_id": "elma5677",
+    "result": {
+      "createdAt": {
+        "$date": "2024-01-06T05:36:49.654Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-06T05:41:22.353Z"
+      },
+      "evaluate": 5,
+      "endAt": {
+        "$date": "2024-01-06T05:41:22.353Z"
+      },
+      "evaluatedAt": {
+        "$date": "2024-01-06T05:41:34.189Z"
+      },
+      "teacherEndAt": null,
+      "continuedAt": null,
+      "sendAskingAt": null,
+      "systemAutoEndAt": null
+    }
+  },
+  {
+    "_id": "y4254165",
+    "result": {
+      "createdAt": {
+        "$date": "2024-01-03T12:28:26.881Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-03T12:36:13.674Z"
+      },
+      "evaluate": 5,
+      "endAt": {
+        "$date": "2024-01-03T12:36:13.674Z"
+      },
+      "evaluatedAt": {
+        "$date": "2024-01-03T12:36:51.669Z"
+      },
+      "teacherEndAt": [
+        {
+          "$date": "2024-01-03T12:33:32.972Z"
+        }
+      ],
+      "continuedAt": null,
+      "sendAskingAt": null,
+      "systemAutoEndAt": null
+    }
+  },
+  {
+    "_id": "Peggy5dollars",
+    "result": {
+      "createdAt": {
+        "$date": "2023-12-30T01:55:31.042Z"
+      },
+      "updatedAt": {
+        "$date": "2023-12-30T02:01:08.587Z"
+      },
+      "evaluate": 5,
+      "endAt": {
+        "$date": "2023-12-30T02:01:08.587Z"
+      },
+      "evaluatedAt": {
+        "$date": "2023-12-30T02:01:18.960Z"
+      },
+      "teacherEndAt": null,
+      "continuedAt": null,
+      "sendAskingAt": null,
+      "systemAutoEndAt": null
+    }
+  },
+  {
+    "_id": "Bellachien",
+    "result": {
+      "createdAt": {
+        "$date": "2024-01-14T06:46:49.025Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-14T08:00:29.703Z"
+      },
+      "evaluate": 5,
+      "endAt": {
+        "$date": "2024-01-14T08:00:29.703Z"
+      },
+      "evaluatedAt": {
+        "$date": "2024-01-14T08:00:32.671Z"
+      },
+      "teacherEndAt": null,
+      "continuedAt": null,
+      "sendAskingAt": null,
+      "systemAutoEndAt": null
+    }
+  },
+  {
+    "_id": "May0528",
+    "result": {
+      "createdAt": {
+        "$date": "2024-01-11T14:05:01.939Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-11T14:19:12.885Z"
+      },
+      "evaluate": 5,
+      "endAt": {
+        "$date": "2024-01-11T14:19:12.885Z"
+      },
+      "evaluatedAt": {
+        "$date": "2024-01-11T14:19:17.208Z"
+      },
+      "teacherEndAt": [
+        {
+          "$date": "2024-01-11T14:18:29.466Z"
+        }
+      ],
+      "continuedAt": null,
+      "sendAskingAt": null,
+      "systemAutoEndAt": null
+    }
+  },
+  {
+    "_id": "LiangBoFeng",
+    "result": {
+      "createdAt": {
+        "$date": "2024-01-29T01:22:58.156Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-29T02:44:12.609Z"
+      },
+      "evaluate": 5,
+      "endAt": null,
+      "evaluatedAt": {
+        "$date": "2024-01-29T09:33:00.445Z"
+      },
+      "teacherEndAt": [
+        {
+          "$date": "2024-01-29T01:44:12.837Z"
+        }
+      ],
+      "continuedAt": null,
+      "sendAskingAt": null,
+      "systemAutoEndAt": {
+        "$date": "2024-01-29T02:44:12.609Z"
+      }
+    }
+  },
+  {
+    "_id": "bunny9755",
+    "result": {
+      "createdAt": {
+        "$date": "2024-01-11T10:33:54.263Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-11T13:06:13.353Z"
+      },
+      "evaluate": 5,
+      "endAt": null,
+      "evaluatedAt": {
+        "$date": "2024-01-11T14:06:03.388Z"
+      },
+      "teacherEndAt": [
+        {
+          "$date": "2024-01-11T12:06:13.761Z"
+        }
+      ],
+      "continuedAt": null,
+      "sendAskingAt": null,
+      "systemAutoEndAt": {
+        "$date": "2024-01-11T13:06:13.353Z"
+      }
+    }
+  },
+  {
+    "_id": "0980932018",
+    "result": {
+      "createdAt": {
+        "$date": "2024-01-11T04:33:36.193Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-11T10:06:06.355Z"
+      },
+      "evaluate": 5,
+      "endAt": null,
+      "evaluatedAt": {
+        "$date": "2024-01-11T10:24:15.412Z"
+      },
+      "teacherEndAt": [
+        {
+          "$date": "2024-01-11T04:58:39.543Z"
+        },
+        {
+          "$date": "2024-01-11T09:06:07.003Z"
+        }
+      ],
+      "continuedAt": [
+        {
+          "$date": "2024-01-11T05:53:41.364Z"
+        }
+      ],
+      "sendAskingAt": null,
+      "systemAutoEndAt": {
+        "$date": "2024-01-11T10:06:06.355Z"
+      }
+    }
+  },
+  {
+    "_id": "inspirit0330",
+    "result": {
+      "createdAt": {
+        "$date": "2024-01-13T06:35:34.775Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-13T07:09:42.979Z"
+      },
+      "evaluate": 5,
+      "endAt": {
+        "$date": "2024-01-13T07:09:42.979Z"
+      },
+      "evaluatedAt": {
+        "$date": "2024-01-13T07:09:50.061Z"
+      },
+      "teacherEndAt": [
+        {
+          "$date": "2024-01-13T07:09:29.309Z"
+        }
+      ],
+      "continuedAt": null,
+      "sendAskingAt": null,
+      "systemAutoEndAt": null
+    }
+  },
+  {
+    "_id": "kuotanya",
+    "result": {
+      "createdAt": {
+        "$date": "2024-01-13T14:31:03.021Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-13T14:40:45.419Z"
+      },
+      "evaluate": 5,
+      "endAt": {
+        "$date": "2024-01-13T14:40:45.419Z"
+      },
+      "evaluatedAt": {
+        "$date": "2024-01-13T14:40:48.396Z"
+      },
+      "teacherEndAt": [
+        {
+          "$date": "2024-01-13T14:39:56.410Z"
+        }
+      ],
+      "continuedAt": null,
+      "sendAskingAt": null,
+      "systemAutoEndAt": null
+    }
+  },
+  {
+    "_id": "lily200202021",
+    "result": {
+      "createdAt": {
+        "$date": "2024-01-13T09:53:03.730Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-13T10:06:36.155Z"
+      },
+      "evaluate": 5,
+      "endAt": {
+        "$date": "2024-01-13T10:06:36.155Z"
+      },
+      "evaluatedAt": {
+        "$date": "2024-01-13T10:06:40.654Z"
+      },
+      "teacherEndAt": null,
+      "continuedAt": null,
+      "sendAskingAt": null,
+      "systemAutoEndAt": null
+    }
+  },
+  {
+    "_id": "popochi",
+    "result": {
+      "createdAt": {
+        "$date": "2024-01-07T09:39:00.103Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-07T11:13:10.385Z"
+      },
+      "evaluate": 5,
+      "endAt": null,
+      "evaluatedAt": {
+        "$date": "2024-01-07T12:38:21.362Z"
+      },
+      "teacherEndAt": [
+        {
+          "$date": "2024-01-07T10:13:10.772Z"
+        }
+      ],
+      "continuedAt": null,
+      "sendAskingAt": null,
+      "systemAutoEndAt": {
+        "$date": "2024-01-07T11:13:10.385Z"
+      }
+    }
+  },
+  {
+    "_id": "hana0219",
+    "result": {
+      "createdAt": {
+        "$date": "2024-01-12T02:41:53.327Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-12T04:02:19.353Z"
+      },
+      "evaluate": 5,
+      "endAt": null,
+      "evaluatedAt": {
+        "$date": "2024-01-12T08:22:26.471Z"
+      },
+      "teacherEndAt": [
+        {
+          "$date": "2024-01-12T03:02:20.335Z"
+        }
+      ],
+      "continuedAt": null,
+      "sendAskingAt": null,
+      "systemAutoEndAt": {
+        "$date": "2024-01-12T04:02:19.353Z"
+      }
+    }
+  },
+  {
+    "_id": "MaggieQQ",
+    "result": {
+      "createdAt": {
+        "$date": "2024-01-13T04:34:20.579Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-13T04:51:24.603Z"
+      },
+      "evaluate": 5,
+      "endAt": {
+        "$date": "2024-01-13T04:51:24.603Z"
+      },
+      "evaluatedAt": {
+        "$date": "2024-01-13T04:51:28.245Z"
+      },
+      "teacherEndAt": null,
+      "continuedAt": null,
+      "sendAskingAt": null,
+      "systemAutoEndAt": null
+    }
+  },
+  {
+    "_id": "0917377411",
+    "result": {
+      "createdAt": {
+        "$date": "2024-01-24T00:00:36.713Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-24T00:11:08.892Z"
+      },
+      "evaluate": 5,
+      "endAt": {
+        "$date": "2024-01-24T00:11:08.892Z"
+      },
+      "evaluatedAt": {
+        "$date": "2024-01-24T00:11:11.795Z"
+      },
+      "teacherEndAt": null,
+      "continuedAt": null,
+      "sendAskingAt": null,
+      "systemAutoEndAt": null
+    }
+  },
+  {
+    "_id": "abbycoco",
+    "result": {
+      "createdAt": {
+        "$date": "2024-01-21T01:27:20.769Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-21T02:21:09.295Z"
+      },
+      "evaluate": 5,
+      "endAt": {
+        "$date": "2024-01-21T02:21:09.295Z"
+      },
+      "evaluatedAt": {
+        "$date": "2024-01-21T02:21:13.252Z"
+      },
+      "teacherEndAt": [
+        {
+          "$date": "2024-01-21T01:54:08.952Z"
+        },
+        {
+          "$date": "2024-01-21T02:14:52.674Z"
+        }
+      ],
+      "continuedAt": [
+        {
+          "$date": "2024-01-21T02:09:08.351Z"
+        }
+      ],
+      "sendAskingAt": null,
+      "systemAutoEndAt": null
+    }
+  },
+  {
+    "_id": "Liaohsienhsien",
+    "result": {
+      "createdAt": {
+        "$date": "2024-01-23T08:37:52.453Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-23T09:24:12.687Z"
+      },
+      "evaluate": 5,
+      "endAt": {
+        "$date": "2024-01-23T09:24:12.687Z"
+      },
+      "evaluatedAt": {
+        "$date": "2024-01-23T09:24:16.779Z"
+      },
+      "teacherEndAt": [
+        {
+          "$date": "2024-01-23T08:40:42.266Z"
+        }
+      ],
+      "continuedAt": null,
+      "sendAskingAt": null,
+      "systemAutoEndAt": null
+    }
+  },
+  {
+    "_id": "Lunglung",
+    "result": {
+      "createdAt": {
+        "$date": "2024-01-24T12:37:33.770Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-24T12:55:21.290Z"
+      },
+      "evaluate": 5,
+      "endAt": {
+        "$date": "2024-01-24T12:55:21.290Z"
+      },
+      "evaluatedAt": {
+        "$date": "2024-01-24T12:55:25.409Z"
+      },
+      "teacherEndAt": null,
+      "continuedAt": null,
+      "sendAskingAt": null,
+      "systemAutoEndAt": null
+    }
+  },
+  {
+    "_id": "hsinheart617",
+    "result": {
+      "createdAt": {
+        "$date": "2024-01-17T09:18:55.574Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-17T09:30:37.182Z"
+      },
+      "evaluate": 5,
+      "endAt": {
+        "$date": "2024-01-17T09:30:37.182Z"
+      },
+      "evaluatedAt": {
+        "$date": "2024-01-17T09:30:39.877Z"
+      },
+      "teacherEndAt": [
+        {
+          "$date": "2024-01-17T09:30:27.171Z"
+        }
+      ],
+      "continuedAt": null,
+      "sendAskingAt": null,
+      "systemAutoEndAt": null
+    }
+  },
+  {
+    "_id": "eric613821",
+    "result": {
+      "createdAt": {
+        "$date": "2024-01-11T12:48:24.696Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-11T13:53:57.354Z"
+      },
+      "evaluate": 5,
+      "endAt": null,
+      "evaluatedAt": {
+        "$date": "2024-01-11T14:02:17.250Z"
+      },
+      "teacherEndAt": [
+        {
+          "$date": "2024-01-11T12:53:57.869Z"
+        }
+      ],
+      "continuedAt": null,
+      "sendAskingAt": null,
+      "systemAutoEndAt": {
+        "$date": "2024-01-11T13:53:57.354Z"
+      }
+    }
+  },
+  {
+    "_id": "ajuniorabc",
+    "result": {
+      "createdAt": {
+        "$date": "2024-01-12T13:56:39.890Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-12T14:49:11.848Z"
+      },
+      "evaluate": 5,
+      "endAt": {
+        "$date": "2024-01-12T14:49:11.848Z"
+      },
+      "evaluatedAt": {
+        "$date": "2024-01-12T14:49:16.480Z"
+      },
+      "teacherEndAt": [
+        {
+          "$date": "2024-01-12T14:49:02.176Z"
+        }
+      ],
+      "continuedAt": null,
+      "sendAskingAt": null,
+      "systemAutoEndAt": null
+    }
+  },
+  {
+    "_id": "yehchihhsin1017",
+    "result": {
+      "createdAt": {
+        "$date": "2024-02-03T12:25:29.169Z"
+      },
+      "updatedAt": {
+        "$date": "2024-02-03T14:28:23.532Z"
+      },
+      "evaluate": 5,
+      "endAt": null,
+      "evaluatedAt": {
+        "$date": "2024-02-03T15:27:39.088Z"
+      },
+      "teacherEndAt": [
+        {
+          "$date": "2024-02-03T13:28:24.102Z"
+        }
+      ],
+      "continuedAt": null,
+      "sendAskingAt": null,
+      "systemAutoEndAt": {
+        "$date": "2024-02-03T14:28:23.532Z"
+      },
+      "closedAt": null
+    }
+  },
+  {
+    "_id": "Cyz1112",
+    "result": {
+      "createdAt": {
+        "$date": "2024-01-11T05:54:24.076Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-11T07:14:25.353Z"
+      },
+      "evaluate": 5,
+      "endAt": null,
+      "evaluatedAt": {
+        "$date": "2024-01-11T09:22:26.684Z"
+      },
+      "teacherEndAt": [
+        {
+          "$date": "2024-01-11T06:14:26.114Z"
+        }
+      ],
+      "continuedAt": null,
+      "sendAskingAt": null,
+      "systemAutoEndAt": {
+        "$date": "2024-01-11T07:14:25.353Z"
+      }
+    }
+  },
+  {
+    "_id": "Angelchao",
+    "result": {
+      "createdAt": {
+        "$date": "2024-01-17T13:54:47.376Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-17T14:02:50.572Z"
+      },
+      "evaluate": 5,
+      "endAt": {
+        "$date": "2024-01-17T14:02:50.572Z"
+      },
+      "evaluatedAt": {
+        "$date": "2024-01-17T14:02:55.764Z"
+      },
+      "teacherEndAt": null,
+      "continuedAt": null,
+      "sendAskingAt": null,
+      "systemAutoEndAt": null
+    }
+  },
+  {
+    "_id": "sunnypop200212",
+    "result": {
+      "createdAt": {
+        "$date": "2024-01-22T12:38:52.052Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-22T12:43:26.136Z"
+      },
+      "evaluate": 5,
+      "endAt": {
+        "$date": "2024-01-22T12:43:26.136Z"
+      },
+      "evaluatedAt": {
+        "$date": "2024-01-22T12:43:29.006Z"
+      },
+      "teacherEndAt": null,
+      "continuedAt": null,
+      "sendAskingAt": null,
+      "systemAutoEndAt": null
+    }
+  },
+  {
+    "_id": "CHAT0215",
+    "result": {
+      "createdAt": {
+        "$date": "2024-01-22T13:11:11.176Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-22T13:17:42.551Z"
+      },
+      "evaluate": 5,
+      "endAt": {
+        "$date": "2024-01-22T13:17:42.551Z"
+      },
+      "evaluatedAt": {
+        "$date": "2024-01-22T13:17:45.047Z"
+      },
+      "teacherEndAt": null,
+      "continuedAt": null,
+      "sendAskingAt": null,
+      "systemAutoEndAt": null
+    }
+  },
+  {
+    "_id": "ChiehLin",
+    "result": {
+      "createdAt": {
+        "$date": "2024-01-11T11:27:16.930Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-11T11:56:23.393Z"
+      },
+      "evaluate": 5,
+      "endAt": {
+        "$date": "2024-01-11T11:56:23.393Z"
+      },
+      "evaluatedAt": {
+        "$date": "2024-01-11T11:57:25.520Z"
+      },
+      "teacherEndAt": [
+        {
+          "$date": "2024-01-11T11:49:18.328Z"
+        }
+      ],
+      "continuedAt": [
+        {
+          "$date": "2024-01-11T11:49:27.316Z"
+        }
+      ],
+      "sendAskingAt": null,
+      "systemAutoEndAt": null
+    }
+  },
+  {
+    "_id": "0939530051",
+    "result": {
+      "createdAt": {
+        "$date": "2023-12-30T01:54:11.522Z"
+      },
+      "updatedAt": {
+        "$date": "2023-12-30T01:57:35.521Z"
+      },
+      "evaluate": 5,
+      "endAt": {
+        "$date": "2023-12-30T01:57:35.521Z"
+      },
+      "evaluatedAt": {
+        "$date": "2023-12-30T01:57:46.925Z"
+      },
+      "teacherEndAt": [
+        {
+          "$date": "2023-12-30T01:56:19.773Z"
+        }
+      ],
+      "continuedAt": null,
+      "sendAskingAt": null,
+      "systemAutoEndAt": null
+    }
+  },
+  {
+    "_id": "0985100987",
+    "result": {
+      "createdAt": {
+        "$date": "2024-01-11T14:48:30.213Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-11T15:08:38.210Z"
+      },
+      "evaluate": 5,
+      "endAt": {
+        "$date": "2024-01-11T15:08:38.210Z"
+      },
+      "evaluatedAt": {
+        "$date": "2024-01-11T15:08:41.697Z"
+      },
+      "teacherEndAt": null,
+      "continuedAt": null,
+      "sendAskingAt": null,
+      "systemAutoEndAt": null
+    }
+  },
+  {
+    "_id": "harperdd95",
+    "result": {
+      "createdAt": {
+        "$date": "2024-02-03T12:31:38.128Z"
+      },
+      "updatedAt": {
+        "$date": "2024-02-03T12:40:46.413Z"
+      },
+      "evaluate": 5,
+      "endAt": {
+        "$date": "2024-02-03T12:40:46.413Z"
+      },
+      "evaluatedAt": {
+        "$date": "2024-02-03T12:40:50.305Z"
+      },
+      "teacherEndAt": [
+        {
+          "$date": "2024-02-03T12:39:20.465Z"
+        }
+      ],
+      "continuedAt": [
+        {
+          "$date": "2024-02-03T12:40:21.403Z"
+        }
+      ],
+      "sendAskingAt": null,
+      "systemAutoEndAt": null,
+      "closedAt": null
+    }
+  },
+  {
+    "_id": "jasmine50721",
+    "result": {
+      "createdAt": {
+        "$date": "2024-02-03T12:19:55.829Z"
+      },
+      "updatedAt": {
+        "$date": "2024-02-03T12:27:34.259Z"
+      },
+      "evaluate": 5,
+      "endAt": {
+        "$date": "2024-02-03T12:27:34.259Z"
+      },
+      "evaluatedAt": {
+        "$date": "2024-02-03T12:27:37.148Z"
+      },
+      "teacherEndAt": [
+        {
+          "$date": "2024-02-03T12:24:55.490Z"
+        }
+      ],
+      "continuedAt": null,
+      "sendAskingAt": null,
+      "systemAutoEndAt": null,
+      "closedAt": null
+    }
+  },
+  {
+    "_id": "singing19",
+    "result": {
+      "createdAt": {
+        "$date": "2024-02-01T15:15:50.782Z"
+      },
+      "updatedAt": {
+        "$date": "2024-02-01T15:33:46.697Z"
+      },
+      "evaluate": 5,
+      "endAt": {
+        "$date": "2024-02-01T15:33:46.697Z"
+      },
+      "evaluatedAt": {
+        "$date": "2024-02-01T15:33:59.649Z"
+      },
+      "teacherEndAt": null,
+      "continuedAt": null,
+      "sendAskingAt": null,
+      "systemAutoEndAt": null,
+      "closedAt": null
+    }
+  },
+  {
+    "_id": "Ryou890304",
+    "result": {
+      "createdAt": {
+        "$date": "2024-01-26T11:12:45.880Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-26T13:08:49.609Z"
+      },
+      "evaluate": 3,
+      "endAt": null,
+      "evaluatedAt": {
+        "$date": "2024-01-27T05:15:19.507Z"
+      },
+      "teacherEndAt": [
+        {
+          "$date": "2024-01-26T12:08:49.265Z"
+        }
+      ],
+      "continuedAt": null,
+      "sendAskingAt": null,
+      "systemAutoEndAt": {
+        "$date": "2024-01-26T13:08:49.609Z"
+      }
+    }
+  },
+  {
+    "_id": "chiuijen",
+    "result": {
+      "createdAt": {
+        "$date": "2024-01-09T13:46:49.312Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-09T15:02:15.255Z"
+      },
+      "evaluate": 4,
+      "endAt": null,
+      "evaluatedAt": {
+        "$date": "2024-01-11T02:15:35.723Z"
+      },
+      "teacherEndAt": [
+        {
+          "$date": "2024-01-09T14:02:15.977Z"
+        }
+      ],
+      "continuedAt": null,
+      "sendAskingAt": null,
+      "systemAutoEndAt": {
+        "$date": "2024-01-09T15:02:15.255Z"
+      }
+    }
+  },
+  {
+    "_id": "orbmagic",
+    "result": {
+      "createdAt": {
+        "$date": "2024-02-03T14:45:21.096Z"
+      },
+      "updatedAt": {
+        "$date": "2024-02-03T15:05:03.516Z"
+      },
+      "evaluate": 5,
+      "endAt": {
+        "$date": "2024-02-03T15:05:03.516Z"
+      },
+      "evaluatedAt": {
+        "$date": "2024-02-03T15:05:07.389Z"
+      },
+      "teacherEndAt": [
+        {
+          "$date": "2024-02-03T15:03:43.828Z"
+        }
+      ],
+      "continuedAt": null,
+      "sendAskingAt": null,
+      "systemAutoEndAt": null,
+      "closedAt": null
+    }
+  },
+  {
+    "_id": "tinggwanwei",
+    "result": {
+      "createdAt": {
+        "$date": "2024-01-14T06:38:17.438Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-14T07:18:30.979Z"
+      },
+      "evaluate": 5,
+      "endAt": {
+        "$date": "2024-01-14T07:18:30.979Z"
+      },
+      "evaluatedAt": {
+        "$date": "2024-01-14T07:18:34.642Z"
+      },
+      "teacherEndAt": null,
+      "continuedAt": null,
+      "sendAskingAt": null,
+      "systemAutoEndAt": null
+    }
+  },
+  {
+    "_id": "0926228898",
+    "result": {
+      "createdAt": {
+        "$date": "2023-12-28T12:48:59.500Z"
+      },
+      "updatedAt": {
+        "$date": "2023-12-28T13:12:16.091Z"
+      },
+      "evaluate": 5,
+      "endAt": {
+        "$date": "2023-12-28T13:12:16.091Z"
+      },
+      "evaluatedAt": {
+        "$date": "2023-12-28T13:12:19.172Z"
+      },
+      "teacherEndAt": [
+        {
+          "$date": "2023-12-28T13:11:29.363Z"
+        }
+      ],
+      "continuedAt": null,
+      "sendAskingAt": null,
+      "systemAutoEndAt": null
+    }
+  },
+  {
+    "_id": "RingLee",
+    "result": {
+      "createdAt": {
+        "$date": "2024-01-20T09:39:03.934Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-20T09:46:20.708Z"
+      },
+      "evaluate": 5,
+      "endAt": {
+        "$date": "2024-01-20T09:46:20.708Z"
+      },
+      "evaluatedAt": {
+        "$date": "2024-01-20T09:46:24.274Z"
+      },
+      "teacherEndAt": [
+        {
+          "$date": "2024-01-20T09:40:22.097Z"
+        }
+      ],
+      "continuedAt": [
+        {
+          "$date": "2024-01-20T09:44:21.096Z"
+        }
+      ],
+      "sendAskingAt": null,
+      "systemAutoEndAt": null
+    }
+  },
+  {
+    "_id": "hsiu82",
+    "result": {
+      "createdAt": {
+        "$date": "2024-01-07T09:35:34.001Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-09T11:52:07.252Z"
+      },
+      "evaluate": 3,
+      "endAt": null,
+      "evaluatedAt": {
+        "$date": "2024-01-09T13:50:34.439Z"
+      },
+      "teacherEndAt": [
+        {
+          "$date": "2024-01-09T10:52:08.263Z"
+        }
+      ],
+      "continuedAt": null,
+      "sendAskingAt": null,
+      "systemAutoEndAt": {
+        "$date": "2024-01-09T11:52:07.252Z"
+      }
+    }
+  },
+  {
+    "_id": "yuchennani",
+    "result": {
+      "createdAt": {
+        "$date": "2024-01-05T07:46:10.464Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-05T07:54:30.057Z"
+      },
+      "evaluate": 5,
+      "endAt": {
+        "$date": "2024-01-05T07:54:30.057Z"
+      },
+      "evaluatedAt": {
+        "$date": "2024-01-05T07:54:39.416Z"
+      },
+      "teacherEndAt": [
+        {
+          "$date": "2024-01-05T07:54:03.429Z"
+        }
+      ],
+      "continuedAt": null,
+      "sendAskingAt": null,
+      "systemAutoEndAt": null
+    }
+  },
+  {
+    "_id": "s07532023",
+    "result": {
+      "createdAt": {
+        "$date": "2024-01-11T04:11:24.444Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-11T05:29:31.353Z"
+      },
+      "evaluate": 5,
+      "endAt": null,
+      "evaluatedAt": {
+        "$date": "2024-01-11T09:47:28.362Z"
+      },
+      "teacherEndAt": [
+        {
+          "$date": "2024-01-11T04:29:32.174Z"
+        }
+      ],
+      "continuedAt": null,
+      "sendAskingAt": null,
+      "systemAutoEndAt": {
+        "$date": "2024-01-11T05:29:31.353Z"
+      }
+    }
+  },
+  {
+    "_id": "youngjoy0212",
+    "result": {
+      "createdAt": {
+        "$date": "2024-01-22T12:54:10.381Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-22T13:09:19.875Z"
+      },
+      "evaluate": 5,
+      "endAt": {
+        "$date": "2024-01-22T13:09:19.875Z"
+      },
+      "evaluatedAt": {
+        "$date": "2024-01-22T13:09:23.016Z"
+      },
+      "teacherEndAt": null,
+      "continuedAt": null,
+      "sendAskingAt": null,
+      "systemAutoEndAt": null
+    }
+  },
+  {
+    "_id": "jamesshih",
+    "result": {
+      "createdAt": {
+        "$date": "2024-01-14T06:39:46.297Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-14T06:49:35.364Z"
+      },
+      "evaluate": 5,
+      "endAt": {
+        "$date": "2024-01-14T06:49:35.364Z"
+      },
+      "evaluatedAt": {
+        "$date": "2024-01-14T06:49:41.963Z"
+      },
+      "teacherEndAt": [
+        {
+          "$date": "2024-01-14T06:44:52.162Z"
+        }
+      ],
+      "continuedAt": null,
+      "sendAskingAt": null,
+      "systemAutoEndAt": null
+    }
+  },
+  {
+    "_id": "Huaiii",
+    "result": {
+      "createdAt": {
+        "$date": "2024-02-04T08:40:35.377Z"
+      },
+      "updatedAt": {
+        "$date": "2024-02-04T09:47:48.254Z"
+      },
+      "evaluate": 5,
+      "endAt": {
+        "$date": "2024-02-04T09:47:48.254Z"
+      },
+      "evaluatedAt": {
+        "$date": "2024-02-04T09:47:54.583Z"
+      },
+      "teacherEndAt": [
+        {
+          "$date": "2024-02-04T09:15:53.454Z"
+        }
+      ],
+      "continuedAt": [
+        {
+          "$date": "2024-02-04T09:43:30.405Z"
+        }
+      ],
+      "sendAskingAt": null,
+      "systemAutoEndAt": null,
+      "closedAt": null
+    }
+  },
+  {
+    "_id": "Ellenchen210",
+    "result": {
+      "createdAt": {
+        "$date": "2024-01-11T04:29:41.253Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-11T04:30:43.280Z"
+      },
+      "evaluate": 5,
+      "endAt": {
+        "$date": "2024-01-11T04:30:43.280Z"
+      },
+      "evaluatedAt": {
+        "$date": "2024-01-11T04:31:33.060Z"
+      },
+      "teacherEndAt": null,
+      "continuedAt": null,
+      "sendAskingAt": null,
+      "systemAutoEndAt": null
+    }
+  },
+  {
+    "_id": "JasonLinda10031129",
+    "result": {
+      "createdAt": {
+        "$date": "2024-02-03T07:37:44.110Z"
+      },
+      "updatedAt": {
+        "$date": "2024-02-03T07:53:59.494Z"
+      },
+      "evaluate": 5,
+      "endAt": {
+        "$date": "2024-02-03T07:53:59.494Z"
+      },
+      "evaluatedAt": {
+        "$date": "2024-02-03T07:54:03.376Z"
+      },
+      "teacherEndAt": null,
+      "continuedAt": null,
+      "sendAskingAt": null,
+      "systemAutoEndAt": null,
+      "closedAt": null
+    }
+  },
+  {
+    "_id": "demio9300",
+    "result": {
+      "createdAt": {
+        "$date": "2024-01-12T02:43:03.968Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-12T03:45:26.354Z"
+      },
+      "evaluate": 5,
+      "endAt": null,
+      "evaluatedAt": {
+        "$date": "2024-01-12T08:22:34.152Z"
+      },
+      "teacherEndAt": [
+        {
+          "$date": "2024-01-12T02:45:26.462Z"
+        },
+        {
+          "$date": "2024-01-12T03:02:12.017Z"
+        }
+      ],
+      "continuedAt": [
+        {
+          "$date": "2024-01-12T02:48:19.812Z"
+        }
+      ],
+      "sendAskingAt": null,
+      "systemAutoEndAt": {
+        "$date": "2024-01-12T03:45:26.354Z"
+      }
+    }
+  },
+  {
+    "_id": "chiayunleeedu",
+    "result": {
+      "createdAt": {
+        "$date": "2024-01-06T05:23:56.659Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-06T05:30:57.007Z"
+      },
+      "evaluate": 5,
+      "endAt": {
+        "$date": "2024-01-06T05:30:57.007Z"
+      },
+      "evaluatedAt": {
+        "$date": "2024-01-06T05:31:08.371Z"
+      },
+      "teacherEndAt": [
+        {
+          "$date": "2024-01-06T05:28:34.706Z"
+        }
+      ],
+      "continuedAt": null,
+      "sendAskingAt": null,
+      "systemAutoEndAt": null
+    }
+  },
+  {
+    "_id": "sayolin",
+    "result": {
+      "createdAt": {
+        "$date": "2024-01-21T01:24:53.536Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-21T02:26:42.421Z"
+      },
+      "evaluate": 5,
+      "endAt": {
+        "$date": "2024-01-21T02:26:42.421Z"
+      },
+      "evaluatedAt": {
+        "$date": "2024-01-21T02:26:46.084Z"
+      },
+      "teacherEndAt": [
+        {
+          "$date": "2024-01-21T02:25:34.095Z"
+        }
+      ],
+      "continuedAt": null,
+      "sendAskingAt": null,
+      "systemAutoEndAt": null
+    }
+  },
+  {
+    "_id": "TFN9191",
+    "result": {
+      "createdAt": {
+        "$date": "2024-01-27T16:30:33.007Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-27T18:04:43.609Z"
+      },
+      "evaluate": 3,
+      "endAt": null,
+      "evaluatedAt": {
+        "$date": "2024-01-28T02:50:58.412Z"
+      },
+      "teacherEndAt": [
+        {
+          "$date": "2024-01-27T17:04:43.586Z"
+        }
+      ],
+      "continuedAt": null,
+      "sendAskingAt": null,
+      "systemAutoEndAt": {
+        "$date": "2024-01-27T18:04:43.609Z"
+      }
+    }
+  },
+  {
+    "_id": "xieuni",
+    "result": {
+      "createdAt": {
+        "$date": "2024-01-16T13:03:32.547Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-16T13:49:05.602Z"
+      },
+      "evaluate": 5,
+      "endAt": {
+        "$date": "2024-01-16T13:49:05.602Z"
+      },
+      "evaluatedAt": {
+        "$date": "2024-01-16T14:02:10.835Z"
+      },
+      "teacherEndAt": [
+        {
+          "$date": "2024-01-16T13:08:30.519Z"
+        }
+      ],
+      "continuedAt": null,
+      "sendAskingAt": null,
+      "systemAutoEndAt": null
+    }
+  },
+  {
+    "_id": "hydrahel",
+    "result": {
+      "createdAt": {
+        "$date": "2024-01-11T13:34:55.174Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-11T13:47:35.681Z"
+      },
+      "evaluate": 5,
+      "endAt": {
+        "$date": "2024-01-11T13:47:35.681Z"
+      },
+      "evaluatedAt": {
+        "$date": "2024-01-11T13:47:49.973Z"
+      },
+      "teacherEndAt": [
+        {
+          "$date": "2024-01-11T13:46:11.832Z"
+        }
+      ],
+      "continuedAt": null,
+      "sendAskingAt": null,
+      "systemAutoEndAt": null
+    }
+  },
+  {
+    "_id": "amylee22229",
+    "result": {
+      "createdAt": {
+        "$date": "2024-01-07T10:17:29.894Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-07T10:48:41.924Z"
+      },
+      "evaluate": 5,
+      "endAt": {
+        "$date": "2024-01-07T10:48:41.924Z"
+      },
+      "evaluatedAt": {
+        "$date": "2024-01-07T10:49:14.278Z"
+      },
+      "teacherEndAt": null,
+      "continuedAt": null,
+      "sendAskingAt": null,
+      "systemAutoEndAt": null
+    }
+  },
+  {
+    "_id": "a3a6a99",
+    "result": {
+      "createdAt": {
+        "$date": "2024-01-17T13:16:09.363Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-17T13:34:43.747Z"
+      },
+      "evaluate": 5,
+      "endAt": {
+        "$date": "2024-01-17T13:34:43.747Z"
+      },
+      "evaluatedAt": {
+        "$date": "2024-01-17T13:34:47.205Z"
+      },
+      "teacherEndAt": null,
+      "continuedAt": null,
+      "sendAskingAt": null,
+      "systemAutoEndAt": null
+    }
+  },
+  {
+    "_id": "brian891230",
+    "result": {
+      "createdAt": {
+        "$date": "2024-01-30T09:58:30.051Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-30T11:24:48.772Z"
+      },
+      "evaluate": 5,
+      "endAt": {
+        "$date": "2024-01-30T11:24:48.772Z"
+      },
+      "evaluatedAt": {
+        "$date": "2024-01-30T11:24:53.380Z"
+      },
+      "teacherEndAt": [
+        {
+          "$date": "2024-01-30T10:58:32.352Z"
+        }
+      ],
+      "continuedAt": null,
+      "sendAskingAt": null,
+      "systemAutoEndAt": null,
+      "closedAt": null
+    }
+  },
+  {
+    "_id": "candyjian02",
+    "result": {
+      "createdAt": {
+        "$date": "2024-01-14T14:06:13.307Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-14T15:10:56.155Z"
+      },
+      "evaluate": 5,
+      "endAt": null,
+      "evaluatedAt": {
+        "$date": "2024-01-15T11:44:19.582Z"
+      },
+      "teacherEndAt": [
+        {
+          "$date": "2024-01-14T14:10:57.212Z"
+        }
+      ],
+      "continuedAt": null,
+      "sendAskingAt": null,
+      "systemAutoEndAt": {
+        "$date": "2024-01-14T15:10:56.155Z"
+      }
+    }
+  },
+  {
+    "_id": "stu5737",
+    "result": {
+      "createdAt": {
+        "$date": "2024-01-11T12:46:29.581Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-11T13:17:28.227Z"
+      },
+      "evaluate": 5,
+      "endAt": {
+        "$date": "2024-01-11T13:17:28.227Z"
+      },
+      "evaluatedAt": {
+        "$date": "2024-01-11T13:17:46.856Z"
+      },
+      "teacherEndAt": [
+        {
+          "$date": "2024-01-11T13:06:31.842Z"
+        }
+      ],
+      "continuedAt": null,
+      "sendAskingAt": null,
+      "systemAutoEndAt": null
+    }
+  }
+]
